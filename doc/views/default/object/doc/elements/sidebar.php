@@ -1,0 +1,4 @@
+<?php
+/**
+ * Doc view sidebar
+ */
